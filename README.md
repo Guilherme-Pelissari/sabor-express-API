@@ -4,7 +4,7 @@ Bem-vindo ao **Sabor Express API**, um projeto em Python desenvolvido para explo
 
 
 ## ✨ Funcionalidades
-- 🛒 Integração com API.
+- 🛒 Integração com API para gerenciamento de pedidos (em progresso).
 - 🖥️ Endpoints para interação com o sistema.
 
 ## 🛠️ Tecnologias Utilizadas
