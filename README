@@ -1,0 +1,67 @@
+# 🍔 Sabor Express API
+
+Bem-vindo ao **Sabor Express API**, um projeto em Python desenvolvido para explorar a integração com APIs em um sistema de gerenciamento de pedidos para um restaurante ou lanchonete. Este projeto foca na construção de uma API funcional, utilizando conceitos de programação em Python e integração com serviços externos.
+
+
+## ✨ Funcionalidades
+- 🛒 Integração com API.
+- 🖥️ Endpoints para interação com o sistema.
+
+## 🛠️ Tecnologias Utilizadas
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+## 🚀 Como Executar
+Siga os passos abaixo para rodar o projeto localmente:
+
+1. **Clone o repositório**:
+   ```bash
+   git clone https://github.com/Guilherme-Pelissari/sabor-express-API.git
+   ```
+2. **Acesse o diretório do projeto**:
+   ```bash
+   cd sabor-express-API
+   ```
+3. **Instale as dependências** (quando disponíveis):
+   ```bash
+   pip install -r requirements.txt
+   ```
+4. **Execute o servidor da API** (quando disponível):
+   ```bash
+   uvicorn main:app --reload
+   ```
+
+
+## 📂 Estrutura do Projeto
+- `main.py`: Arquivo principal para execução da API.
+
+## 🤝 Como Contribuir
+Contribuições são muito bem-vindas! Siga os passos abaixo:
+
+1. Faça um **fork** do repositório.
+2. Crie uma **branch** para sua feature:
+   ```bash
+   git checkout -b minha-feature
+   ```
+3. Faça o **commit** das suas alterações:
+   ```bash
+   git commit -m "Adicionando minha feature"
+   ```
+4. Envie para o repositório remoto:
+   ```bash
+   git push origin minha-feature
+   ```
+5. Abra um **Pull Request** no GitHub.
+
+## 📬 Contato
+Para dúvidas, sugestões ou feedback, entre em contato com o desenvolvedor:
+- **GitHub**: [Guilherme-Pelissari](https://github.com/Guilherme-Pelissari)
+
+## 📝 Licença
+Este projeto está licenciado sob a licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes (a ser adicionado).
+
+---
+
+⭐ **Dê uma estrela no repositório se achou o projeto interessante!**
